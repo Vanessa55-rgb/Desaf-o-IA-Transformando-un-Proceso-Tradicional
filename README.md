@@ -35,9 +35,9 @@ Aunque el objetivo de este caso es mejorar el proceso sin IA, una opción que se
 El software de gestión de inventarios reemplazaría las hojas de cálculo y los libros de registro físicos. Los empleados continuarían con el conteo físico de inventarios, pero los datos serían ingresados directamente en el sistema, el cual automáticamente actualizaría el stock y generaría alertas para productos de bajo inventario.
 
 **Beneficios esperados:**
-- **Automatización:** La actualización automática del inventario y la creación de órdenes de compra reducirían la intervención humana y los errores asociados.
-- **Velocidad:** La integración digital permitiría obtener información en tiempo real sobre las existencias, lo que mejoraría la toma de decisiones.
-- **Adaptabilidad:** El sistema podría adaptarse a la demanda de productos y ajustar los niveles de inventario de manera más eficiente que el proceso manual.
+**Automatización:** La actualización automática del inventario y la creación de órdenes de compra reducirían la intervención humana y los errores asociados.
+**Velocidad:** La integración digital permitiría obtener información en tiempo real sobre las existencias, lo que mejoraría la toma de decisiones.
+**Adaptabilidad:** El sistema podría adaptarse a la demanda de productos y ajustar los niveles de inventario de manera más eficiente que el proceso manual.
 
 ## 4. Comparativa.
 | Aspecto                    | Proceso Tradicional              | Solución Mejorada (sin IA)                   |
